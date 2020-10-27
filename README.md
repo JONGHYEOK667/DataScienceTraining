@@ -1,2 +1,0 @@
-# Project
-Deep Learning Study
